@@ -1,2 +1,2 @@
-# CompTIA-Security-
+# CompTIA-Security+
 CompTIA Security+ Training Course Certification 
